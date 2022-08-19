@@ -1,0 +1,19 @@
+# Directories
+./env
+
+# Specific Files
+./activate/
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Backup files # 
+*.bak
+
+# Data Files
+*.csv
